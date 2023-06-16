@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "4470F322-61C8-4539-AC28-81DB78619495",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "RefdsDataStructureTests",
+        "name" : "RefdsDataStructureTests"
+      }
+    }
+  ],
+  "version" : 1
+}
